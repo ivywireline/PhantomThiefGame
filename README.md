@@ -2,7 +2,9 @@ PhantomThiefGame
 ================
 
 Phantom Thief is a visual novel game created through RenPy Visual Novel Engine. To play the game, you need to install at least
-Python 2.7 or Python 3.2. 
+Python 2.7 or Python 3.2.
+
+Work in progress.
 
 ----------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------
